@@ -1,0 +1,224 @@
+2020-03-15 14:26:29,360 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 14:26:29,533 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 14:26:29,539 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 14:26:30,049 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 14:26:30,498 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 14:26:31,066 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 14:26:31,518 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 14:26:32,463 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 14:26:35,607 [http-bio-8080-exec-2] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 14:26:35,832 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 14:26:35,955 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 14:26:35,958 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 14:26:36,266 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 14:26:36,512 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 14:26:36,748 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 14:26:37,096 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 14:26:37,672 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 14:27:54,206 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 14:27:54,293 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 14:27:54,296 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 14:27:54,502 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 14:27:54,773 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 14:27:54,997 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 14:27:55,325 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 14:27:55,757 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 14:28:02,564 [http-bio-8080-exec-1] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 14:40:19,834 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 14:40:19,950 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 14:40:19,953 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 14:40:20,204 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 14:40:20,521 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 14:40:20,825 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 14:40:21,193 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 14:40:21,771 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 14:40:37,005 [http-bio-8080-exec-4] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 14:47:52,453 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 14:47:52,568 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 14:47:52,570 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 14:47:52,789 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 14:47:53,111 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 14:47:53,407 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 14:47:53,725 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 14:47:54,199 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 14:48:07,320 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:06:56,054 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:06:56,186 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:06:56,189 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:06:56,410 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:06:56,668 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:06:57,097 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:06:57,532 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:06:58,036 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:07:12,569 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:14:40,508 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:14:40,695 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:14:40,700 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:14:41,157 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:14:41,749 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:14:42,091 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:14:42,756 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:14:43,568 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:15:12,817 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:20:45,584 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:20:45,720 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:20:45,724 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:20:46,007 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:20:46,453 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:20:46,736 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:20:47,222 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:20:48,100 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:21:15,286 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:21:38,403 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:21:38,563 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:21:38,567 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:21:38,900 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:21:39,483 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:21:39,881 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:21:40,543 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:21:41,523 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:23:40,319 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:23:40,516 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:23:40,522 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:23:40,885 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:23:41,447 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:23:41,791 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:23:42,378 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:23:43,294 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:24:05,711 [http-bio-8080-exec-5] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:35:54,635 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:35:54,838 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:35:54,844 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:35:55,304 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:35:55,909 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:35:56,251 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:35:57,002 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:35:57,976 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:36:08,169 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:50:51,362 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:50:51,565 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:50:51,573 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:50:52,116 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:50:52,666 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:50:53,082 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:50:53,780 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:50:54,735 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 15:51:10,919 [http-bio-8080-exec-3] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 15:51:59,904 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 15:52:00,007 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 15:52:00,011 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 15:52:00,240 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 15:52:00,554 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 15:52:00,795 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 15:52:01,237 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 15:52:01,765 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:03:21,176 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:03:21,287 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:03:21,290 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:03:21,510 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:03:21,760 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:03:22,064 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:03:22,389 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:03:22,959 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:04:31,943 [http-bio-8080-exec-10] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 16:15:05,255 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:15:05,504 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:15:05,509 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:15:05,848 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:15:06,264 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:15:06,618 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:15:07,159 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:15:08,088 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:29:30,132 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:29:30,237 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:29:30,241 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:29:30,472 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:29:30,718 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:29:31,038 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:29:31,358 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:29:31,909 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:29:48,324 [http-bio-8080-exec-4] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 16:30:31,943 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:30:32,047 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:30:32,049 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:30:32,336 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:30:32,657 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:30:32,924 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:30:33,325 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:30:33,954 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:30:45,340 [http-bio-8080-exec-4] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
+2020-03-15 16:31:08,006 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:31:08,090 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:31:08,092 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:31:08,271 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:31:08,536 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:31:08,912 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:31:09,260 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:31:09,792 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:33:03,279 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:33:03,386 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:33:03,388 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:33:03,589 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:33:03,881 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:33:04,205 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:33:04,608 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:33:05,381 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:41:14,994 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:41:15,175 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:41:15,180 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:41:15,602 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:41:16,159 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:41:16,462 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:41:17,024 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:41:17,703 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:42:08,022 [localhost-startStop-1] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-03-15 16:42:08,147 [localhost-startStop-1] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.4.0.Final}
+2020-03-15 16:42:08,149 [localhost-startStop-1] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+2020-03-15 16:42:08,421 [localhost-startStop-1] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-03-15 16:42:08,848 [localhost-startStop-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-03-15 16:42:09,168 [localhost-startStop-1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-03-15 16:42:09,715 [localhost-startStop-1] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.4.0.Final
+2020-03-15 16:42:10,449 [localhost-startStop-1] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-03-15 16:42:21,960 [http-bio-8080-exec-1] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator - HHH000397: Using ASTQueryTranslatorFactory
